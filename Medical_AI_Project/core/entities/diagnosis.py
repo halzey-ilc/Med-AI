@@ -80,6 +80,7 @@ if __name__ == "__main__":
     result = diagnose_use_case.execute(medical_case)
     print(result)
 
+    print('Hello, world!')
 
     #✔ Используется чистая архитектура → Код отделен от инфраструктуры и моделей.
     #✔ Добавлено логирование → Отслеживаем процесс диагностики.
