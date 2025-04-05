@@ -1,0 +1,35 @@
+# Core Libraries
+numpy
+pandas
+scikit-learn
+
+# Deep Learning Frameworks
+tensorflow
+torch
+transformers
+
+# NLP Tools
+nltk
+spacy
+
+# FastAPI for API Layer
+fastapi
+uvicorn
+
+# Database Tools
+pymongo
+
+# Caching
+redis
+
+# Testing
+pytest
+pytest-cov
+
+# Additional Utilities
+python-dotenv
+loguru
+
+
+
+pydantic

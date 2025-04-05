@@ -1,0 +1,3 @@
+2025-02-19 01:13:21,896 - TestLogger - INFO - This is an informational log.
+2025-02-19 01:13:21,896 - TestLogger - WARNING - This is a warning log.
+2025-02-19 01:13:21,897 - TestLogger - ERROR - This is an error log.
