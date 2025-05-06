@@ -24,4 +24,5 @@ class PatientRepository:
                 upsert=True
             )
         except PyMongoError as e:
-            raise Exception(f"Ошибка при сохранении диагноза: {str(e)}")
+            raise Exception(f"Ошибка при сохранении диагноза: {str(e)}")   
+            # тут ужас перелать
